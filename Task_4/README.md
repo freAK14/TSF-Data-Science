@@ -4,4 +4,6 @@ In this EDA task, we have to clean the data and visualize the same using differe
 
 [Link for the Dataset](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
 
+![Map GIF](map_animation.gif)
+
 [Link to Kaggle Notebook](https://www.kaggle.com/akashkothare/task-4-eda-terrorism)
