@@ -7,3 +7,5 @@ In this EDA task, we have to clean the data and visualize the same using differe
 ![Map GIF](map_animation.gif)
 
 [Link to Kaggle Notebook](https://www.kaggle.com/akashkothare/task-4-eda-terrorism)
+
+[Link to LinkedIn Post](https://www.linkedin.com/posts/akash-kothare_eda-gripdec20-tsf-activity-6744989923457150976-aPgP/)(With Explaination Video)
