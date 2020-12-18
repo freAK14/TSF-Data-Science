@@ -7,4 +7,4 @@ In this task:
 
 [Link to Kaggle Notebook](https://www.kaggle.com/akashkothare/task-6-decision-tree)
 
-[Link to LinkedIn Post]()(With Explanation Video)
+[Link to LinkedIn Post](https://www.linkedin.com/posts/akash-kothare_gripdec20-tsf-grip-activity-6745823241631342592-TgMc)(With Explanation Video)
